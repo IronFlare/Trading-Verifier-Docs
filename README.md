@@ -3,4 +3,4 @@ Documentation, issue tracking, and changelogs for IronFlare's [Trading Verifier]
 
 ## Shortcuts
 * [View documentation and changelogs](../..//wiki)
-* [File a bug report or feature request](../../issues)
+* [File a bug report or feature request](../../issues/new)
