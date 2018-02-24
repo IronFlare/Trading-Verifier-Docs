@@ -1,8 +1,6 @@
 # Trading Verifier Docs
-Documentation, issue tracking, and changelogs for IronFlare's Trading Verifier browser extension.
+Documentation, issue tracking, and changelogs for IronFlare's [Trading Verifier](https://chrome.google.com/webstore/detail/trading-verifier/nbfjdkcannmjnimkhbncagpbbojjhlhf) browser extension.
 
----
-
-To view documentation and changelogs, go to the [Wiki](https://github.com/IronFlare/Trading-Verifier-Docs/wiki).
-
-If you have identified a bug or want to propose a feature, go to [Issues](https://github.com/IronFlare/Trading-Verifier-Docs/issues).
+## Shortcuts
+* [View documentation and changelogs](../..//wiki)
+* [File a bug report or feature request](../../issues)
